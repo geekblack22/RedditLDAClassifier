@@ -1,3 +1,3 @@
 # RedditLDAClassifier
  
-[Paper describing results]RedditLDAClassifier.pdf
+[Paper describing results](Reddit_Classifier.pdf)
