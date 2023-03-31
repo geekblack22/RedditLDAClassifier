@@ -19,7 +19,7 @@ def main():
             os.system("python load_voice.py "+subreddits[i])
             i+= 1
         except:
-            print("SHIT HERE WE GO AGAIN!!!")              
+            print("HERE WE GO AGAIN!!!")              
             time.sleep(300)
             i+= 1
         
